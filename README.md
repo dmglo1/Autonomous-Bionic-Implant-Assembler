@@ -22,6 +22,6 @@ The raspberry pi is running Raspbian Buster, found here: https://downloads.raspb
 The raspberry pi also has printrun installed, which facilitates communications with the printer. This can be found here: https://github.com/kliment/Printrun
 
 
-For printrun, certain changes have been made to prevent errors showing on screen. To include this, a folder entitled 'Printrun' is also available. This includes all code for running the assembler on the raspberry pi including Controller.py, all gcode etc already in the folder. The only file which needs to be changed is Start.sh to point to the location of the Printrun folder. Additionally, the arduino code must still be installed. 
+All python files have been placed directly in the printrun folder including the gcode files. The only file which needs to be changed is Start.sh to point to the location of the Printrun folder. Additionally, the arduino code must still be installed. 
 
 * All intellectual property relating to the Monash Bionic Eye project itself has been removed from these files.
