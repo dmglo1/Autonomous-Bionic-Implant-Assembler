@@ -23,3 +23,5 @@ The raspberry pi also has printrun installed, which facilitates communications w
 
 
 For printrun, certain changes have been made to prevent errors showing on screen. To include this, a folder entitled 'Printrun' is also available. This includes all code for running the assembler on the raspberry pi including Controller.py, all gcode etc already in the folder. The only file which needs to be changed is Start.sh to point to the location of the Printrun folder. Additionally, the arduino code must still be installed. 
+
+* All intellectual property relating to the Monash Bionic Eye project itself has been removed from these files.
