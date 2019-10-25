@@ -24,4 +24,4 @@ The raspberry pi also has printrun installed, which facilitates communications w
 
 All python files have been placed directly in the printrun folder including the gcode files. The only file which needs to be changed is Start.sh to point to the location of the Printrun folder. Additionally, the arduino code must still be installed. 
 
-* All intellectual property relating to the Monash Bionic Eye project itself has been removed from these files.
+* All intellectual property relating to the Monash Bionic Eye project has been removed from these files.
